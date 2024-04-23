@@ -1,0 +1,33 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"allowJs": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"forceConsistentCasingInFileNames": true,
+		"noEmit": true,
+		"esModuleInterop": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"jsx": "preserve",
+		"incremental": true,
+		"baseUrl": ".",
+		"paths": {
+			"DMH/actions/*": ["actions/*"],
+			"DMH/components/*": ["components/*"],
+			"DMH/context/*": ["context/*"],
+			"DMH/pages/*": ["pages/*"],
+			"DMH/services/*": ["services/*"],
+			"DMH/shared/*": ["shared/*"],
+			"DMH/styles/*": ["styles/*"],
+			"DMH/test/*": ["test/*"],
+			"DMH/utils/*": ["utils/*"]
+		},
+		"typeRoots": ["node_modules/@types"]
+	},
+	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+	"exclude": ["node_modules"]
+}

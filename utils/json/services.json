@@ -1,0 +1,35 @@
+[
+  { "name": "ADT Alarmas", "img": "/services/adt-alarmas.jpg", "id": 1 },
+  { "name": "Cablevisión", "img": "/services/cablevision.png", "id": 2 },
+  { "name": "Claro", "img": "/services/claro.png", "id": 3 },
+  { "name": "Direct TV", "img": "/services/direc-tv.svg", "id": 4 },
+  { "name": "Disney+", "img": "/services/disney+.jpg", "id": 5 },
+  {
+    "name": "Google Play Music",
+    "img": "/services/google-play-music.jpg",
+    "id": 6
+  },
+  { "name": "HBO max", "img": "/services/hbo-max.webp", "id": 7 },
+  {
+    "name": "Mercantil Andina",
+    "img": "/services/mercantil-andina.png",
+    "id": 8
+  },
+  { "name": "Movistar", "img": "/services/movistar.jpg", "id": 9 },
+  { "name": "Netflix", "img": "/services/netflix.png", "id": 10 },
+  { "name": "Paramount+", "img": "/services/paramount+.png", "id": 11 },
+  { "name": "Personal", "img": "/services/personal.png", "id": 12 },
+  { "name": "Primevideo", "img": "/services/primevideo.png", "id": 13 },
+  { "name": "Spotify", "img": "/services/spotify.png", "id": 14 },
+  { "name": "Supercanal", "img": "/services/supercanal.webp", "id": 15 },
+  {
+    "name": "Triunfo Seguros",
+    "img": "/services/triunfo-seguros.png",
+    "id": 16
+  },
+  {
+    "name": "YouTube Premium",
+    "img": "/services/youtube-premium.webp",
+    "id": 17
+  }
+]
